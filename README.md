@@ -1,2 +1,2 @@
 # basics_of_cpp
-In this reprosotry i posts and shares my basics of cpp files
+In this repository i posts and shares my basics of cpp files
